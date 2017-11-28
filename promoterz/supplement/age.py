@@ -1,4 +1,4 @@
-#1/bin/python
+#!/bin/python
 
 from deap import base
 
